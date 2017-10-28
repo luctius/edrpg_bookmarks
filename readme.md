@@ -7,6 +7,8 @@ rectify that.
 I created the meta-data which can then be merged with the existing pdf with a
 tool called pdftk.
 
+[Here is a preview of what I mean](https://github.com/luctius/edrpg_bookmarks/blob/master/edrpg_bookmarks_preview.png)
+
 ## Requirements
 This requires [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/). I
 use it under Linux and use the distribution provided version (apt get install
