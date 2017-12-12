@@ -1,17 +1,17 @@
 InfoBegin
 InfoKey: ModDate
-InfoValue: D:20170929151512+01'00'
+InfoValue: D:20171211111202Z
 InfoBegin
 InfoKey: CreationDate
-InfoValue: D:20170929144116+01'00'
+InfoValue: D:20171211100253Z
 InfoBegin
 InfoKey: Creator
-InfoValue: Adobe InDesign CC 2017 (Macintosh)
+InfoValue: Adobe InDesign CC 13.0 (Macintosh)
 InfoBegin
 InfoKey: Producer
 InfoValue: Adobe PDF Library 15.0
-PdfID0: 34ca0bc41efd45ce8922a7f78260bef4
-PdfID1: 830d31d3804f43e3b4dc4e71027f1450
+PdfID0: f8607bbab9704994b658ab69d48e9542
+PdfID1: b2ade368ded34b96b22da092594d5e78
 NumberOfPages: 370
 BookmarkBegin
 BookmarkTitle: Front Cover
@@ -71,6 +71,10 @@ BookmarkBegin
 BookmarkTitle: Lone Wolf Games
 BookmarkLevel: 3
 BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Map: The Old Worlds
+BookmarkLevel: 2
+BookmarkPageNumber: 12
 
 BookmarkBegin
 BookmarkTitle: Character Creation
@@ -247,15 +251,15 @@ BookmarkPageNumber: 22
 BookmarkBegin
 BookmarkTitle: Partner
 BookmarkLevel: 4
-BookmarkPageNumber: 21
+BookmarkPageNumber: 22
 BookmarkBegin
 BookmarkTitle: Petty Criminal
 BookmarkLevel: 4
-BookmarkPageNumber: 21
+BookmarkPageNumber: 22
 BookmarkBegin
 BookmarkTitle: Pilot Trained
 BookmarkLevel: 4
-BookmarkPageNumber: 21
+BookmarkPageNumber: 22
 BookmarkBegin
 BookmarkTitle: Police Officer
 BookmarkLevel: 4
@@ -654,6 +658,18 @@ BookmarkTitle: Playing the Game
 BookmarkLevel: 1
 BookmarkPageNumber: 42
 BookmarkBegin
+BookmarkTitle: Using Skills
+BookmarkLevel: 2
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Example: Making a Skill Check
+BookmarkLevel: 3
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Example: Using a Skill Yourself
+BookmarkLevel: 3
+BookmarkPageNumber: 44
+BookmarkBegin
 BookmarkTitle: Rule of 1 and 10
 BookmarkLevel: 2
 BookmarkPageNumber: 45
@@ -833,6 +849,10 @@ BookmarkBegin
 BookmarkTitle: Endurance
 BookmarkLevel: 3
 BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Map: Eranin Sector
+BookmarkLevel: 2
+BookmarkPageNumber: 52
 
 BookmarkBegin
 BookmarkTitle: Combat
@@ -1165,7 +1185,7 @@ BookmarkPageNumber: 74
 BookmarkBegin
 BookmarkTitle: Diagram: The GM and Obstacles
 BookmarkLevel: 4
-BookmarkPageNumber: 75
+BookmarkPageNumber: 74
 BookmarkBegin
 BookmarkTitle: Table: Sudden Slope
 BookmarkLevel: 4
@@ -1210,7 +1230,7 @@ BookmarkPageNumber: 79
 BookmarkBegin
 BookmarkTitle: Background: Hyperspace Travel in Elite Dangerous
 BookmarkLevel: 3
-BookmarkPageNumber: 79
+BookmarkPageNumber: 82
 BookmarkBegin
 BookmarkTitle: Galactic Tour
 BookmarkLevel: 2
@@ -1274,8 +1294,11 @@ BookmarkPageNumber: 93
 BookmarkBegin
 BookmarkTitle: Being a Good Citizen
 BookmarkLevel: 3
-BookmarkPageNumber: 91
-
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Map: Sorbago Empire/Federation Border
+BookmarkLevel: 2
+BookmarkPageNumber: 96
 
 BookmarkBegin
 BookmarkTitle: Personal Equipment
@@ -1294,10 +1317,6 @@ BookmarkTitle: Diagram: Currency Calculator
 BookmarkLevel: 3
 BookmarkPageNumber: 99
 BookmarkBegin
-BookmarkTitle: Table: Basic Ranged Weapon
-BookmarkLevel: 3
-BookmarkPageNumber: 101
-BookmarkBegin
 BookmarkTitle: Common vs Rare
 BookmarkLevel: 2
 BookmarkPageNumber: 100
@@ -1309,6 +1328,10 @@ BookmarkBegin
 BookmarkTitle: Personal Weapons
 BookmarkLevel: 2
 BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: Table: Basic Ranged Weapon
+BookmarkLevel: 3
+BookmarkPageNumber: 101
 BookmarkBegin
 BookmarkTitle: Skill Bonuses
 BookmarkLevel: 2
@@ -1438,6 +1461,22 @@ BookmarkTitle: General Equipment
 BookmarkLevel: 2
 BookmarkPageNumber: 129
 BookmarkBegin
+BookmarkTitle: Clothing
+BookmarkLevel: 3
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Diagram: Skill Bonuses & How They Work
+BookmarkLevel: 4
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Cosmetics
+BookmarkLevel: 3
+BookmarkPageNumber: 129
+BookmarkBegin
+BookmarkTitle: Comms
+BookmarkLevel: 3
+BookmarkPageNumber: 130
+BookmarkBegin
 BookmarkTitle: Combat Stimms
 BookmarkLevel: 3
 BookmarkPageNumber: 131
@@ -1499,65 +1538,317 @@ BookmarkTitle: Adder
 BookmarkLevel: 3
 BookmarkPageNumber: 140
 BookmarkBegin
+BookmarkTitle: 'Aspire' Coupe
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Cornucopia
+BookmarkLevel: 4
+BookmarkPageNumber: 141
+BookmarkBegin
+BookmarkTitle: Shiftermax
+BookmarkLevel: 4
+BookmarkPageNumber: 142
+BookmarkBegin
+BookmarkTitle: Raider
+BookmarkLevel: 4
+BookmarkPageNumber: 142
+BookmarkBegin
 BookmarkTitle: Anaconda
 BookmarkLevel: 3
 BookmarkPageNumber: 143
+BookmarkBegin
+BookmarkTitle: Var B3 Starter Frame
+BookmarkLevel: 4
+BookmarkPageNumber: 144
+BookmarkBegin
+BookmarkTitle: Class 4 Trade Cruiser
+BookmarkLevel: 4
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: Pirate Battle Ship
+BookmarkLevel: 4
+BookmarkPageNumber: 146
 BookmarkBegin
 BookmarkTitle: Asp Explorer
 BookmarkLevel: 3
 BookmarkPageNumber: 147
 BookmarkBegin
+BookmarkTitle: Proteus E
+BookmarkLevel: 4
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle: Destiny
+BookmarkLevel: 4
+BookmarkPageNumber: 148
+BookmarkBegin
+BookmarkTitle: Stalwart
+BookmarkLevel: 4
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: Cutthroat
+BookmarkLevel: 4
+BookmarkPageNumber: 149
+BookmarkBegin
 BookmarkTitle: Cobra Mk3
 BookmarkLevel: 3
 BookmarkPageNumber: 150
+BookmarkBegin
+BookmarkTitle: Merit
+BookmarkLevel: 4
+BookmarkPageNumber: 151
+BookmarkBegin
+BookmarkTitle: Inca
+BookmarkLevel: 4
+BookmarkPageNumber: 151
+BookmarkBegin
+BookmarkTitle: Escort
+BookmarkLevel: 4
+BookmarkPageNumber: 152
+BookmarkBegin
+BookmarkTitle: Drillermax
+BookmarkLevel: 4
+BookmarkPageNumber: 152
+BookmarkBegin
+BookmarkTitle: GTI
+BookmarkLevel: 4
+BookmarkPageNumber: 153
+BookmarkBegin
+BookmarkTitle: Discretion
+BookmarkLevel: 4
+BookmarkPageNumber: 153
+BookmarkBegin
+BookmarkTitle: Excelsior
+BookmarkLevel: 4
+BookmarkPageNumber: 154
 BookmarkBegin
 BookmarkTitle: Diamondback Scout
 BookmarkLevel: 3
 BookmarkPageNumber: 155
 BookmarkBegin
+BookmarkTitle: Shetland
+BookmarkLevel: 4
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: Outreach 2
+BookmarkLevel: 4
+BookmarkPageNumber: 156
+BookmarkBegin
+BookmarkTitle: Interceptor
+BookmarkLevel: 4
+BookmarkPageNumber: 157
+BookmarkBegin
+BookmarkTitle: War Totem
+BookmarkLevel: 4
+BookmarkPageNumber: 157
+BookmarkBegin
 BookmarkTitle: Eagle Mk2
 BookmarkLevel: 3
 BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: Sentinal
+BookmarkLevel: 4
+BookmarkPageNumber: 159
+BookmarkBegin
+BookmarkTitle: Interceptor MR1
+BookmarkLevel: 4
+BookmarkPageNumber: 159
+BookmarkBegin
+BookmarkTitle: Defender 3400
+BookmarkLevel: 4
+BookmarkPageNumber: 160
+BookmarkBegin
+BookmarkTitle: EGX Ranger
+BookmarkLevel: 4
+BookmarkPageNumber: 160
 BookmarkBegin
 BookmarkTitle: Fer-de-Lance
 BookmarkLevel: 3
 BookmarkPageNumber: 161
 BookmarkBegin
+BookmarkTitle: E Frame
+BookmarkLevel: 4
+BookmarkPageNumber: 162
+BookmarkBegin
+BookmarkTitle: Predator S-Type
+BookmarkLevel: 4
+BookmarkPageNumber: 162
+BookmarkBegin
+BookmarkTitle: A9 Excalibur
+BookmarkLevel: 4
+BookmarkPageNumber: 163
+BookmarkBegin
 BookmarkTitle: Hauler
 BookmarkLevel: 3
 BookmarkPageNumber: 164
+BookmarkBegin
+BookmarkTitle: Blackbird Reliant
+BookmarkLevel: 4
+BookmarkPageNumber: 165
+BookmarkBegin
+BookmarkTitle: Hatchback Zeta
+BookmarkLevel: 4
+BookmarkPageNumber: 165
+BookmarkBegin
+BookmarkTitle: Vantage Drigger
+BookmarkLevel: 4
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: Silence
+BookmarkLevel: 4
+BookmarkPageNumber: 166
 BookmarkBegin
 BookmarkTitle: Krait
 BookmarkLevel: 3
 BookmarkPageNumber: 167
 BookmarkBegin
+BookmarkTitle: T21 Base Edition
+BookmarkLevel: 4
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle: Privateer
+BookmarkLevel: 4
+BookmarkPageNumber: 168
+BookmarkBegin
+BookmarkTitle: Annihilator
+BookmarkLevel: 4
+BookmarkPageNumber: 169
+BookmarkBegin
 BookmarkTitle: Python
 BookmarkLevel: 3
 BookmarkPageNumber: 170
+BookmarkBegin
+BookmarkTitle: X4 Min Legal Frame
+BookmarkLevel: 4
+BookmarkPageNumber: 171
+BookmarkBegin
+BookmarkTitle: Stobart 9
+BookmarkLevel: 4
+BookmarkPageNumber: 171
+BookmarkBegin
+BookmarkTitle: Jolly Roger
+BookmarkLevel: 4
+BookmarkPageNumber: 172
+BookmarkBegin
+BookmarkTitle: Alliance Picket Ship
+BookmarkLevel: 4
+BookmarkPageNumber: 172
 BookmarkBegin
 BookmarkTitle: Sidewinder
 BookmarkLevel: 3
 BookmarkPageNumber: 173
 BookmarkBegin
+BookmarkTitle: Viva!
+BookmarkLevel: 4
+BookmarkPageNumber: 174
+BookmarkBegin
+BookmarkTitle: FD-4
+BookmarkLevel: 4
+BookmarkPageNumber: 174
+BookmarkBegin
+BookmarkTitle: Warden DDC
+BookmarkLevel: 4
+BookmarkPageNumber: 175
+BookmarkBegin
+BookmarkTitle: Discovery Alpha
+BookmarkLevel: 4
+BookmarkPageNumber: 175
+BookmarkBegin
+BookmarkTitle: Polaris
+BookmarkLevel: 4
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: Raider
+BookmarkLevel: 4
+BookmarkPageNumber: 176
+BookmarkBegin
+BookmarkTitle: Skyfire
+BookmarkLevel: 4
+BookmarkPageNumber: 177
+BookmarkBegin
 BookmarkTitle: Type-6 Transporter
 BookmarkLevel: 3
 BookmarkPageNumber: 178
+BookmarkBegin
+BookmarkTitle: Production Version
+BookmarkLevel: 4
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: Haulage Pro
+BookmarkLevel: 4
+BookmarkPageNumber: 179
+BookmarkBegin
+BookmarkTitle: Deep Bore 191
+BookmarkLevel: 4
+BookmarkPageNumber: 180
 BookmarkBegin
 BookmarkTitle: Type-7 Transporter
 BookmarkLevel: 3
 BookmarkPageNumber: 181
 BookmarkBegin
+BookmarkTitle: Quick-Order
+BookmarkLevel: 4
+BookmarkPageNumber: 182
+BookmarkBegin
+BookmarkTitle: Capacity Max
+BookmarkLevel: 4
+BookmarkPageNumber: 182
+BookmarkBegin
+BookmarkTitle: Q Ship
+BookmarkLevel: 4
+BookmarkPageNumber: 183
+BookmarkBegin
 BookmarkTitle: Type-9 Heavy
 BookmarkLevel: 3
 BookmarkPageNumber: 184
+BookmarkBegin
+BookmarkTitle: Entry Level
+BookmarkLevel: 4
+BookmarkPageNumber: 185
+BookmarkBegin
+BookmarkTitle: Class 3 Protected Carrier
+BookmarkLevel: 4
+BookmarkPageNumber: 185
+BookmarkBegin
+BookmarkTitle: Haz Environment Transport
+BookmarkLevel: 4
+BookmarkPageNumber: 186
 BookmarkBegin
 BookmarkTitle: Viper Mk3
 BookmarkLevel: 3
 BookmarkPageNumber: 187
 BookmarkBegin
+BookmarkTitle: Consort
+BookmarkLevel: 4
+BookmarkPageNumber: 188
+BookmarkBegin
+BookmarkTitle: Police Issue
+BookmarkLevel: 4
+BookmarkPageNumber: 188
+BookmarkBegin
+BookmarkTitle: Warhammer
+BookmarkLevel: 4
+BookmarkPageNumber: 189
+BookmarkBegin
+BookmarkTitle: Damask Rose
+BookmarkLevel: 4
+BookmarkPageNumber: 189
+BookmarkBegin
 BookmarkTitle: Vulture
 BookmarkLevel: 3
 BookmarkPageNumber: 190
+BookmarkBegin
+BookmarkTitle: CX Zero mod
+BookmarkLevel: 4
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: Vanguard
+BookmarkLevel: 4
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: 59 Alpha
+BookmarkLevel: 4
+BookmarkPageNumber: 192
 BookmarkBegin
 BookmarkTitle: Modifying Spacecraft
 BookmarkLevel: 2
@@ -1846,6 +2137,10 @@ BookmarkBegin
 BookmarkTitle: Table: Shield Generator
 BookmarkLevel: 4
 BookmarkPageNumber: 217
+BookmarkBegin
+BookmarkTitle: Map: Sol
+BookmarkLevel: 2
+BookmarkPageNumber: 218
 
 BookmarkBegin
 BookmarkTitle: Vehicles
@@ -1899,6 +2194,15 @@ BookmarkBegin
 BookmarkTitle: Barracuda Submercible
 BookmarkLevel: 3
 BookmarkPageNumber: 234
+BookmarkBegin
+BookmarkTitle: Map: Achenar
+BookmarkLevel: 2
+BookmarkPageNumber: 236
+
+BookmarkBegin
+BookmarkTitle: Witchlight
+BookmarkLevel: 1
+BookmarkPageNumber: 237
 
 BookmarkBegin
 BookmarkTitle: GM Section
@@ -2293,9 +2597,13 @@ BookmarkTitle: Diagram: Unsuitable Bounty Hunter Ships
 BookmarkLevel: 5
 BookmarkPageNumber: 276
 BookmarkBegin
-BookmarkTitle: Table: between adventures: Bounty Hunting
+BookmarkTitle: Table: Bounty Hunting (Between Adventures)
 BookmarkLevel: 5
 BookmarkPageNumber: 276
+BookmarkBegin
+BookmarkTitle: Map: Alioth
+BookmarkLevel: 2
+BookmarkPageNumber: 278
 
 BookmarkBegin
 BookmarkTitle: Opponents
@@ -2772,7 +3080,7 @@ BookmarkPageNumber: 314
 BookmarkBegin
 BookmarkTitle: Biomod
 BookmarkLevel: 2
-BookmarkPageNumber: 315
+BookmarkPageNumber: 314
 BookmarkBegin
 BookmarkTitle: Individual Scale
 BookmarkLevel: 3
@@ -2780,35 +3088,35 @@ BookmarkPageNumber: 315
 BookmarkBegin
 BookmarkTitle: Weaselrat
 BookmarkLevel: 4
-BookmarkPageNumber: 314
+BookmarkPageNumber: 315
 BookmarkBegin
 BookmarkTitle: Bathawk
 BookmarkLevel: 4
-BookmarkPageNumber: 314
+BookmarkPageNumber: 315
 BookmarkBegin
 BookmarkTitle: Snakewolf
 BookmarkLevel: 4
-BookmarkPageNumber: 314
+BookmarkPageNumber: 315
 BookmarkBegin
 BookmarkTitle: Pantherhound
 BookmarkLevel: 4
-BookmarkPageNumber: 314
+BookmarkPageNumber: 315
 BookmarkBegin
 BookmarkTitle: Gorrilion
 BookmarkLevel: 4
-BookmarkPageNumber: 315
+BookmarkPageNumber: 316
 BookmarkBegin
 BookmarkTitle: Police Herg
 BookmarkLevel: 4
-BookmarkPageNumber: 315
+BookmarkPageNumber: 316
 BookmarkBegin
 BookmarkTitle: Drones
 BookmarkLevel: 2
-BookmarkPageNumber: 318
+BookmarkPageNumber: 317
 BookmarkBegin
 BookmarkTitle: Controlling a Drone
 BookmarkLevel: 3
-BookmarkPageNumber: 318
+BookmarkPageNumber: 317
 BookmarkBegin
 BookmarkTitle: Drone Special Rules
 BookmarkLevel: 3
@@ -2856,11 +3164,11 @@ BookmarkPageNumber: 319
 BookmarkBegin
 BookmarkTitle: Stinger-2 Attack Skimmer
 BookmarkLevel: 4
-BookmarkPageNumber: 319
+BookmarkPageNumber: 320
 BookmarkBegin
 BookmarkTitle: S9 Golaith Skimmer
 BookmarkLevel: 4
-BookmarkPageNumber: 319
+BookmarkPageNumber: 320
 
 BookmarkBegin
 BookmarkTitle: Rewards
