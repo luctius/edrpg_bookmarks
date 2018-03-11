@@ -1,0 +1,836 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20180227234119Z
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20180227231932Z
+InfoBegin
+InfoKey: Creator
+InfoValue: Adobe InDesign CC 13.0 (Macintosh)
+InfoBegin
+InfoKey: Producer
+InfoValue: Adobe PDF Library 15.0
+PdfID0: efb63d9bd1734e15bcd18674d875655b
+PdfID1: 1a03f81721974ec3bd91a326ce386cb3
+NumberOfPages: 65
+
+BookmarkBegin
+BookmarkTitle: Front Cover
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+
+BookmarkBegin
+BookmarkTitle: Content
+BookmarkLevel: 1
+BookmarkPageNumber: 3
+    BookmarkBegin
+    BookmarkTitle: Diagram: The Solo Campaign
+    BookmarkLevel: 2
+    BookmarkPageNumber: 3
+
+BookmarkBegin
+BookmarkTitle: Warfare of the Future
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+    BookmarkBegin
+    BookmarkTitle: The Federation and the Empire
+    BookmarkLevel: 2
+    BookmarkPageNumber: 6
+        BookmarkBegin
+        BookmarkTitle: The Federal Military
+        BookmarkLevel: 3
+        BookmarkPageNumber: 6
+        BookmarkBegin
+        BookmarkTitle: The Imperial Navy
+        BookmarkLevel: 3
+        BookmarkPageNumber: 9
+    BookmarkBegin
+    BookmarkTitle: Military Careers
+    BookmarkLevel: 2
+    BookmarkPageNumber: 11
+        BookmarkBegin
+        BookmarkTitle: Gaining an Honorary Rank
+        BookmarkLevel: 3
+        BookmarkPageNumber: 12
+            BookmarkBegin
+            BookmarkTitle: Effects of gaining Honorary Ranks
+            BookmarkLevel: 4
+            BookmarkPageNumber: 13
+            BookmarkBegin
+            BookmarkTitle: Table: Honorary Ranks
+            BookmarkLevel: 5
+            BookmarkPageNumber: 12
+            BookmarkBegin
+            BookmarkTitle: Non-honorary Ranks
+            BookmarkLevel: 4
+            BookmarkPageNumber: 13
+    BookmarkBegin
+    BookmarkTitle: New Spaceships
+    BookmarkLevel: 2
+    BookmarkPageNumber: 14
+        BookmarkBegin
+        BookmarkTitle: Table: Bulkheads
+        BookmarkLevel: 3
+        BookmarkPageNumber: 14
+        BookmarkBegin
+        BookmarkTitle: Federal Assaultship
+        BookmarkLevel: 3
+        BookmarkPageNumber: 15
+            BookmarkBegin
+            BookmarkTitle: Patriot Edition
+            BookmarkLevel: 4
+            BookmarkPageNumber: 16
+            BookmarkBegin
+            BookmarkTitle: Skirmisher
+            BookmarkLevel: 4
+            BookmarkPageNumber: 16
+            BookmarkBegin
+            BookmarkTitle: Battleman
+            BookmarkLevel: 4
+            BookmarkPageNumber: 17
+        BookmarkBegin
+        BookmarkTitle: Federal Corvette
+        BookmarkLevel: 3
+        BookmarkPageNumber: 18
+            BookmarkBegin
+            BookmarkTitle: Private Sale Variant
+            BookmarkLevel: 4
+            BookmarkPageNumber: 19
+            BookmarkBegin
+            BookmarkTitle: Freelancer
+            BookmarkLevel: 4
+            BookmarkPageNumber: 19
+            BookmarkBegin
+            BookmarkTitle: Line Cruiser
+            BookmarkLevel: 4
+            BookmarkPageNumber: 20
+        BookmarkBegin
+        BookmarkTitle: Federal Dropship
+        BookmarkLevel: 3
+        BookmarkPageNumber: 21
+            BookmarkBegin
+            BookmarkTitle: Civilian Production
+            BookmarkLevel: 4
+            BookmarkPageNumber: 22
+            BookmarkBegin
+            BookmarkTitle: Standard Deployment
+            BookmarkLevel: 4
+            BookmarkPageNumber: 22
+            BookmarkBegin
+            BookmarkTitle: Armoured Transporter
+            BookmarkLevel: 4
+            BookmarkPageNumber: 23
+        BookmarkBegin
+        BookmarkTitle: Federal Gunship
+        BookmarkLevel: 3
+        BookmarkPageNumber: 24
+            BookmarkBegin
+            BookmarkTitle: Civ Mod 0.5
+            BookmarkLevel: 4
+            BookmarkPageNumber: 25
+            BookmarkBegin
+            BookmarkTitle: Pirate Mod
+            BookmarkLevel: 4
+            BookmarkPageNumber: 25
+            BookmarkBegin
+            BookmarkTitle: Support Craft
+            BookmarkLevel: 4
+            BookmarkPageNumber: 26
+        BookmarkBegin
+        BookmarkTitle: Imperial Clipper
+        BookmarkLevel: 3
+        BookmarkPageNumber: 27
+            BookmarkBegin
+            BookmarkTitle: Civilian Release
+            BookmarkLevel: 4
+            BookmarkPageNumber: 28
+            BookmarkBegin
+            BookmarkTitle: Palanquin
+            BookmarkLevel: 4
+            BookmarkPageNumber: 28
+            BookmarkBegin
+            BookmarkTitle: Warhawk
+            BookmarkLevel: 4
+            BookmarkPageNumber: 29
+        BookmarkBegin
+        BookmarkTitle: Imperial Courier
+        BookmarkLevel: 3
+        BookmarkPageNumber: 30
+            BookmarkBegin
+            BookmarkTitle: Display Model
+            BookmarkLevel: 4
+            BookmarkPageNumber: 31
+            BookmarkBegin
+            BookmarkTitle: Condor
+            BookmarkLevel: 4
+            BookmarkPageNumber: 31
+            BookmarkBegin
+            BookmarkTitle: Firestarter
+            BookmarkLevel: 4
+            BookmarkPageNumber: 32
+        BookmarkBegin
+        BookmarkTitle: Imperial Cutter
+        BookmarkLevel: 3
+        BookmarkPageNumber: 33
+            BookmarkBegin
+            BookmarkTitle: Open Frame
+            BookmarkLevel: 4
+            BookmarkPageNumber: 34
+            BookmarkBegin
+            BookmarkTitle: Kestral
+            BookmarkLevel: 4
+            BookmarkPageNumber: 34
+            BookmarkBegin
+            BookmarkTitle: Farpoint
+            BookmarkLevel: 4
+            BookmarkPageNumber: 35
+        BookmarkBegin
+        BookmarkTitle: Imperial Eagle
+        BookmarkLevel: 3
+        BookmarkPageNumber: 36
+            BookmarkBegin
+            BookmarkTitle: Production Line Variant
+            BookmarkLevel: 4
+            BookmarkPageNumber: 37
+            BookmarkBegin
+            BookmarkTitle: Outreach Omega
+            BookmarkLevel: 4
+            BookmarkPageNumber: 37
+            BookmarkBegin
+            BookmarkTitle: Empire Interdictor
+            BookmarkLevel: 4
+            BookmarkPageNumber: 38
+            BookmarkBegin
+            BookmarkTitle: Sagittarius
+            BookmarkLevel: 4
+            BookmarkPageNumber: 38
+    BookmarkBegin
+    BookmarkTitle: The Arsenal of War
+    BookmarkLevel: 2
+    BookmarkPageNumber: 39
+        BookmarkBegin
+        BookmarkTitle: Laser Carbine
+        BookmarkLevel: 3
+        BookmarkPageNumber: 39
+            BookmarkBegin
+            BookmarkTitle: Table: Laser Carbines
+            BookmarkLevel: 4
+            BookmarkPageNumber: 39
+        BookmarkBegin
+        BookmarkTitle: Rail Rifle
+        BookmarkLevel: 3
+        BookmarkPageNumber: 40
+            BookmarkBegin
+            BookmarkTitle: Table: Rail Rifles
+            BookmarkLevel: 4
+            BookmarkPageNumber: 41
+    BookmarkBegin
+    BookmarkTitle: The Military Life
+    BookmarkLevel: 2
+    BookmarkPageNumber: 42
+        BookmarkBegin
+        BookmarkTitle: New Backgrounds
+        BookmarkLevel: 3
+        BookmarkPageNumber: 42
+            BookmarkBegin
+            BookmarkTitle: Federal Reservist
+            BookmarkLevel: 4
+            BookmarkPageNumber: 42
+            BookmarkBegin
+            BookmarkTitle: Slave Soldier
+            BookmarkLevel: 4
+            BookmarkPageNumber: 42
+            BookmarkBegin
+            BookmarkTitle: Military Courier
+            BookmarkLevel: 4
+            BookmarkPageNumber: 42
+            BookmarkBegin
+            BookmarkTitle: Drone Controller
+            BookmarkLevel: 4
+            BookmarkPageNumber: 43
+                BookmarkBegin
+                BookmarkTitle: Owning Drones
+                BookmarkLevel: 5
+                BookmarkPageNumber: 43
+                BookmarkBegin
+                BookmarkTitle: Buying a Drone
+                BookmarkLevel: 5
+                BookmarkPageNumber: 43
+        BookmarkBegin
+        BookmarkTitle: New Karma Capabilities
+        BookmarkLevel: 3
+        BookmarkPageNumber: 43
+            BookmarkBegin
+            BookmarkTitle: 3D Thinking
+            BookmarkLevel: 4
+            BookmarkPageNumber: 43
+            BookmarkBegin
+            BookmarkTitle: Drill Sergeant
+            BookmarkLevel: 4
+            BookmarkPageNumber: 43
+            BookmarkBegin
+            BookmarkTitle: Instinct
+            BookmarkLevel: 4
+            BookmarkPageNumber: 43
+            BookmarkBegin
+            BookmarkTitle: Penetrating Shot
+            BookmarkLevel: 4
+            BookmarkPageNumber: 43
+    BookmarkBegin
+    BookmarkTitle: Enemies of the Peace
+    BookmarkLevel: 2
+    BookmarkPageNumber: 44
+        BookmarkBegin
+        BookmarkTitle: Soldier and Mercenary
+        BookmarkLevel: 3
+        BookmarkPageNumber: 44
+            BookmarkBegin
+            BookmarkTitle: Spaceship Scale
+            BookmarkLevel: 4
+            BookmarkPageNumber: 44
+                BookmarkBegin
+                BookmarkTitle: Imperial Interceptor
+                BookmarkLevel: 5
+                BookmarkPageNumber: 44
+                BookmarkBegin
+                BookmarkTitle: Federal Support Ship
+                BookmarkLevel: 5
+                BookmarkPageNumber: 44
+                BookmarkBegin
+                BookmarkTitle: Federal Attack Ship
+                BookmarkLevel: 5
+                BookmarkPageNumber: 45
+                BookmarkBegin
+                BookmarkTitle: Imperial Clipper
+                BookmarkLevel: 5
+                BookmarkPageNumber: 45
+                BookmarkBegin
+                BookmarkTitle: Federal Line Cruiser
+                BookmarkLevel: 5
+                BookmarkPageNumber: 45
+                BookmarkBegin
+                BookmarkTitle: Imperial Cruiser
+                BookmarkLevel: 5
+                BookmarkPageNumber: 46
+        BookmarkBegin
+        BookmarkTitle: Criminal
+        BookmarkLevel: 3
+        BookmarkPageNumber: 46
+            BookmarkBegin
+            BookmarkTitle: Spaceship Scale
+            BookmarkLevel: 4
+            BookmarkPageNumber: 46
+                BookmarkBegin
+                BookmarkTitle: Empire Privateer
+                BookmarkLevel: 5
+                BookmarkPageNumber: 46
+                BookmarkBegin
+                BookmarkTitle: Pirate Ronin
+                BookmarkLevel: 5
+                BookmarkPageNumber: 46
+        BookmarkBegin
+        BookmarkTitle: Assasin
+        BookmarkLevel: 3
+        BookmarkPageNumber: 47
+            BookmarkBegin
+            BookmarkTitle: Spaceship Scale
+            BookmarkLevel: 4
+            BookmarkPageNumber: 47
+                BookmarkBegin
+                BookmarkTitle: Successful Bounty Hunter
+                BookmarkLevel: 5
+                BookmarkPageNumber: 47
+                BookmarkBegin
+                BookmarkTitle: Lethal Bounty Hunter
+                BookmarkLevel: 5
+                BookmarkPageNumber: 47
+        BookmarkBegin
+        BookmarkTitle: Robots
+        BookmarkLevel: 3
+        BookmarkPageNumber: 48
+            BookmarkBegin
+            BookmarkTitle: Robot Special Rules
+            BookmarkLevel: 4
+            BookmarkPageNumber: 48
+            BookmarkBegin
+            BookmarkTitle: Individual Scale
+            BookmarkLevel: 4
+            BookmarkPageNumber: 48
+                BookmarkBegin
+                BookmarkTitle: Sentinal Turret
+                BookmarkLevel: 4
+                BookmarkPageNumber: 49
+                BookmarkBegin
+                BookmarkTitle: Death Spider
+                BookmarkLevel: 4
+                BookmarkPageNumber: 49
+                BookmarkBegin
+                BookmarkTitle: Guard Bot
+                BookmarkLevel: 4
+                BookmarkPageNumber: 50
+                BookmarkBegin
+                BookmarkTitle: Achilles Combat Droid
+                BookmarkLevel: 4
+                BookmarkPageNumber: 50
+            BookmarkBegin
+            BookmarkTitle: Vehicle Scale
+            BookmarkLevel: 4
+            BookmarkPageNumber: 50
+                BookmarkBegin
+                BookmarkTitle: Dog Mortar
+                BookmarkLevel: 4
+                BookmarkPageNumber: 50
+    BookmarkBegin
+    BookmarkTitle: Random Generation System
+    BookmarkLevel: 2
+    BookmarkPageNumber: 51
+        BookmarkBegin
+        BookmarkTitle: Playing without DM
+        BookmarkLevel: 3
+        BookmarkPageNumber: 51
+        BookmarkBegin
+        BookmarkTitle: The Solo Campagin
+        BookmarkLevel: 3
+        BookmarkPageNumber: 51
+        BookmarkBegin
+        BookmarkTitle: Running Battles
+        BookmarkLevel: 3
+        BookmarkPageNumber: 51
+            BookmarkBegin
+            BookmarkTitle: Table: Opponent Behaviour
+            BookmarkLevel: 4
+            BookmarkPageNumber: 52
+        BookmarkBegin
+        BookmarkTitle: Creating Military Opponents
+        BookmarkLevel: 3
+        BookmarkPageNumber: 52
+            BookmarkBegin
+            BookmarkTitle: Table: Number of Opponents
+            BookmarkLevel: 4
+            BookmarkPageNumber: 52
+            BookmarkBegin
+            BookmarkTitle: Table: Personal Scale Military Opponents
+            BookmarkLevel: 4
+            BookmarkPageNumber: 53
+            BookmarkBegin
+            BookmarkTitle: Table: Vehicle Scale Military Opponents
+            BookmarkLevel: 4
+            BookmarkPageNumber: 54
+            BookmarkBegin
+            BookmarkTitle: Table: Spaceship Scale Military Opponents
+            BookmarkLevel: 4
+            BookmarkPageNumber: 54
+        BookmarkBegin
+        BookmarkTitle: Mission Notes
+        BookmarkLevel: 3
+        BookmarkPageNumber: 55
+            BookmarkBegin
+            BookmarkTitle: Recon
+            BookmarkLevel: 4
+            BookmarkPageNumber: 55
+            BookmarkBegin
+            BookmarkTitle: Disruption at Checkpoint Zulu
+            BookmarkLevel: 4
+            BookmarkPageNumber: 55
+            BookmarkBegin
+            BookmarkTitle: Raid
+            BookmarkLevel: 4
+            BookmarkPageNumber: 55
+            BookmarkBegin
+            BookmarkTitle: Snatch Squad
+            BookmarkLevel: 4
+            BookmarkPageNumber: 56
+            BookmarkBegin
+            BookmarkTitle: Hostage Release
+            BookmarkLevel: 4
+            BookmarkPageNumber: 56
+            BookmarkBegin
+            BookmarkTitle: Defence Action
+            BookmarkLevel: 4
+            BookmarkPageNumber: 57
+            BookmarkBegin
+            BookmarkTitle: Prisonar of War Release
+            BookmarkLevel: 4
+            BookmarkPageNumber: 57
+            BookmarkBegin
+            BookmarkTitle: Denial Operations
+            BookmarkLevel: 4
+            BookmarkPageNumber: 57
+            BookmarkBegin
+            BookmarkTitle: Main Assault
+            BookmarkLevel: 4
+            BookmarkPageNumber: 58
+            BookmarkBegin
+            BookmarkTitle: Military Transport
+            BookmarkLevel: 4
+            BookmarkPageNumber: 58
+        BookmarkBegin
+        BookmarkTitle: Effect Notes
+        BookmarkLevel: 3
+        BookmarkPageNumber: 59
+            BookmarkBegin
+            BookmarkTitle: Table: (Military) Travel Table
+            BookmarkLevel: 4
+            BookmarkPageNumber: 59
+        BookmarkBegin
+        BookmarkTitle: Creating a Military Base
+        BookmarkLevel: 4
+        BookmarkPageNumber: 60
+            BookmarkBegin
+            BookmarkTitle: Base Sizes
+            BookmarkLevel: 5
+            BookmarkPageNumber: 60
+            BookmarkBegin
+            BookmarkTitle: Encounters and Rewards
+            BookmarkLevel: 5
+            BookmarkPageNumber: 60
+            BookmarkBegin
+            BookmarkTitle: Base Alert
+            BookmarkLevel: 5
+            BookmarkPageNumber: 60
+            BookmarkBegin
+            BookmarkTitle: Base Defences
+            BookmarkLevel: 5
+            BookmarkPageNumber: 60
+            BookmarkBegin
+            BookmarkTitle: Building the Base
+            BookmarkLevel: 5
+            BookmarkPageNumber: 60
+                BookmarkBegin
+                BookmarkTitle: Table: Corridors
+                BookmarkLevel: 6
+                BookmarkPageNumber: 61
+                BookmarkBegin
+                BookmarkTitle: Table: Military Base Rooms
+                BookmarkLevel: 6
+                BookmarkPageNumber: 61
+                BookmarkBegin
+                BookmarkTitle: Table: Number of Doors in a Room
+                BookmarkLevel: 6
+                BookmarkPageNumber: 64
+
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 17
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 18
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 19
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 20
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 21
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 22
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 23
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 24
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 25
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 26
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 27
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 28
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 29
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 30
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 31
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 32
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 33
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 34
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 35
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 36
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 37
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 38
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 39
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 40
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 41
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 42
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 43
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 44
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 45
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 46
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 47
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 48
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 49
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 50
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 51
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 52
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 53
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 54
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 55
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 56
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 57
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 58
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 59
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 60
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 61
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 62
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 63
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 64
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
+PageMediaBegin
+PageMediaNumber: 65
+PageMediaRotation: 0
+PageMediaRect: 0 0 595.276 841.89
+PageMediaDimensions: 595.276 841.89
